@@ -2,10 +2,15 @@
 
 #### 使用fluent-bit + Kinesis firehose
 
+![](2023-07-07-13-34-47.png)
+
 * fluent-bit 配置参考 fluent-bit-sample.conf (通过环境变量配置ak、sk权限)
 * 其余参考此[workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/32e6bc9a-5c03-416d-be7c-4d29f40e55c4/en-US/lab-4/lab4-1-os)
 
+
 #### 使用fluent-bit + Kinesis data streams + lambda
+
+![](2023-07-07-13-35-09.png)
 
 * 参考代码 `sample.py`
 
